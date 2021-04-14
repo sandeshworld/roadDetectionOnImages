@@ -1,0 +1,10 @@
+/bdd100k_images
+/bdd100k_labels
+/bdd100k_labels_detection20
+
+/bdd100k_labels_detection20
+/bdd100k_drivable_map
+bdd100k_drivable_maps.zip
+bdd100k_labels_detection20.zip
+bdd100k_labels_release.zip
+=0.0.7
