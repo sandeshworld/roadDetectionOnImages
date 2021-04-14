@@ -1,7 +1,7 @@
 # roadDetectionOnImages
 Deep CNN on Images for Road Detection using Jupyter Notebook
 
-Our model is contained in the ![testing_new.pynb](testing_new.pynb) file.
+Our model is contained in the ![testing_new.ipynb](testing_new.ipynb) file.
 
 Checkout our final paper on using the U-Net technique for road detection:
 
