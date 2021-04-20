@@ -19,3 +19,7 @@ The third image is the actual dashcam RGB image.
 The final image is the output of our model after we apply threshold filtering. 
 
 As you can see, our model is generally effective at predicting the "drivable pixels" on the image.
+
+
+![image](https://user-images.githubusercontent.com/28467603/115445830-384dfc00-a1cb-11eb-9d3e-14e8092cdd42.png)
+
